@@ -29,6 +29,6 @@ botlistadi: "",
 modlogkanal: "",
 botunadı: "",
 botkontrolcusurolu: "",
-footer: "",
+footer: "https://github.com/Zyrxus11/Discord-Bot-List",
 Developer: ""
 }
